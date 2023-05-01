@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>ST-02</name>
+      <longname>Worst Generation</longname>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>[OP] Eustass"Captain"Kid [ST02-001]</name>
+      <text>[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: Set this Leader as active.</text>
+      <prop>
+        <type>[Supernovas] [Kid Pirates]</type>
+        <maintype>LEADER</maintype>
+        <colors>G</colors>
+        <pt>5000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST02-001.png">ST-02</set>
+    </card>
+    <card>
+      <name>[OP] Vito [ST02-002]</name>
+      <text></text>
+      <prop>
+        <type>[Firetank Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>G</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST02-002.png">ST-02</set>
+    </card>
+    <card>
+      <name>[OP] Urouge [ST02-003]</name>
+      <text>[DON!! x1] If you have 3 or more Characters, this card gains +2000 power.</text>
+      <prop>
+        <type>[Supernovas] [Fallen Monk Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST02-003.png">ST-02</set>
+    </card>
+    <card>
+      <name>[OP] Capone"Gang"Bege [ST02-004]</name>
+      <text>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</text>
+      <prop>
+        <type>[Supernovas] [Firetank Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>G</colors>
+        <pt>1000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST02-004.png">ST-02</set>
+    </card>
+    <card>
+      <name>[OP] Killer [ST02-005]</name>
+      <text>[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.
+[Trigger] Play this card.</text>
+      <prop>
+        <type>[Supernovas] [Kid Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>G</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST02-005.png">ST-02</set>
+    </card>
+    <card>
+      <name>[OP] Koby [ST02-006]</name>
+      <text></text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>G</colors>
+        <pt>6000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST02-006.png">ST-02</set>
+    </card>
+    <card>
+      <name>[OP] Jewelry Bonney [ST02-007]</name>
+      <text>[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may rest this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.</text>
+      <prop>
+        <type>[Supernovas] [Bonney Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>G</colors>
+        <pt>1000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST02-007.png">ST-02</set>
+    </card>
+    <card>
+      <name>[OP] Scratchmen Apoo [ST02-008]</name>
+      <text>[DON!! x1] [When Attacking] Rest up to 1 of your opponent's DON!! cards.</text>
+      <prop>
+        <type>[Supernovas] [On-Air Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <pt>3000/2000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST02-008.png">ST-02</set>
+    </card>
+    <card>
+      <name>[OP] Trafalgar Law [ST02-009]</name>
+      <text>[On Play] Set up to 1 of your {Supernovas} or {Heart Pirates} type rested Characters with a cost of 5 or less as active.</text>
+      <prop>
+        <type>[Supernovas] [Heart Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>5</cmc>
+        <colors>G</colors>
+        <pt>6000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST02-009.png">ST-02</set>
+    </card>
+    <card>
+      <name>[OP] Basil Hawkins [ST02-010]</name>
+      <text>[DON!! x1] [Once Per Turn] [Your Turn] If this Character battles your opponent's Character, set this card as active.</text>
+      <prop>
+        <type>[Supernovas] [Hawkins Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>5</cmc>
+        <colors>G</colors>
+        <pt>6000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST02-010.png">ST-02</set>
+    </card>
+    <card>
+      <name>[OP] Heat [ST02-011]</name>
+      <text></text>
+      <prop>
+        <type>[Kid Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <pt>4000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST02-011.png">ST-02</set>
+    </card>
+    <card>
+      <name>[OP] Bepo [ST02-012]</name>
+      <text></text>
+      <prop>
+        <type>[Minks] [Heart Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>G</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST02-012.png">ST-02</set>
+    </card>
+    <card>
+      <name>[OP] Eustass"Captain"Kid [ST02-013]</name>
+      <text>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x1] [End of Your Turn] Set this card as active.</text>
+      <prop>
+        <type>[Supernovas] [Kid Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>7</cmc>
+        <colors>G</colors>
+        <pt>7000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST02-013.png">ST-02</set>
+    </card>
+    <card>
+      <name>[OP] X.Drake [ST02-014]</name>
+      <text>[DON!! x1] [Your Turn] If this Character is rested, your {Supernovas} or {Navy} type Leaders and Characters gain +1000 power.</text>
+      <prop>
+        <type>[Navy] [Supernovas] [Drake Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>G</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST02-014.png">ST-02</set>
+    </card>
+    <card>
+      <name>[OP] Scalpel [ST02-015]</name>
+      <text>[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, set up to 1 of your DON!! cards as active.
+[Trigger] Set up to 2 of your DON!! cards as active.</text>
+      <prop>
+        <type>[Supernovas] [Heart Pirates]</type>
+        <maintype>EVENT</maintype>
+        <cmc>1</cmc>
+        <colors>G</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST02-015.png">ST-02</set>
+    </card>
+    <card>
+      <name>[OP] Repel [ST02-016]</name>
+      <text>[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, set up to 1 of your DON!! cards as active.</text>
+      <prop>
+        <type>[Supernovas] [Kid Pirates]</type>
+        <maintype>EVENT</maintype>
+        <cmc>2</cmc>
+        <colors>G</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST02-016.png">ST-02</set>
+    </card>
+    <card>
+      <name>[OP] Straw Sword [ST02-017]</name>
+      <text>[Main] Rest up to 1 of your opponent's Characters.
+[Trigger] Play up to 1 {Supernovas} type card with a cost of 2 or less from your hand.</text>
+      <prop>
+        <type>[Supernovas] [Hawkins Pirates]</type>
+        <maintype>EVENT</maintype>
+        <cmc>2</cmc>
+        <colors>G</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST02-017.png">ST-02</set>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>CORE</name>
+      <longname>Core</longname>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>[OP] DON!! [CORE-001]</name>
+      <text>Your Turn +1000</text>
+      <prop>
+        <maintype>DON</maintype>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/beginners/special/card/don.png">CORE</set>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>STARTER DECK - Absolute Justice</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="10" name="[OP] DON!! [CORE-001]"/>
+        <card number="1" name="[OP] Sakazuki [ST06-001]"/>
+        <card number="2" name="[OP] Koby [ST06-002]"/>
+        <card number="4" name="[OP] Jango [ST06-003]"/>
+        <card number="2" name="[OP] Smoker [ST06-004]"/>
+        <card number="4" name="[OP] Sengoku [ST06-005]"/>
+        <card number="4" name="[OP] Tashigi [ST06-006]"/>
+        <card number="4" name="[OP] Tsuru [ST06-007]"/>
+        <card number="2" name="[OP] Hina [ST06-008]"/>
+        <card number="4" name="[OP] Fullbody [ST06-009]"/>
+        <card number="4" name="[OP] Helmeppo [ST06-010]"/>
+        <card number="4" name="[OP] Momonga [ST06-011]"/>
+        <card number="2" name="[OP] Monkey.D.Garp [ST06-012]"/>
+        <card number="4" name="[OP] T-Bone [ST06-013]"/>
+        <card number="2" name="[OP] Shockwave [ST06-014]"/>
+        <card number="2" name="[OP] Great Eruption [ST06-015]"/>
+        <card number="4" name="[OP] White Out [ST06-016]"/>
+        <card number="2" name="[OP] Navy HQ [ST06-017]"/>
+    </zone>
+</cockatrice_deck>

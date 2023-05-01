@@ -1,0 +1,1451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>OP02</name>
+      <longname>PARAMOUNT WAR</longname>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>[OP] Edward.Newgate [OP02-001]</name>
+      <text>[End of Your Turn] Add 1 card from the top of your Life cards to your hand.</text>
+      <prop>
+        <type>[The Four Emperors] [Whitebeard Pirates]</type>
+        <maintype>LEADER</maintype>
+        <colors>R</colors>
+        <pt>6000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-001_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Monkey.D.Garp [OP02-002]</name>
+      <text>[Your Turn] When this Leader or any of your Characters is given a DON!! card, give up to 1 of your opponent's Characters with a cost of 7 or less −1 cost during this turn.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>LEADER</maintype>
+        <colors>RB</colors>
+        <pt>5000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-002_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Atmos [OP02-003]</name>
+      <text></text>
+      <prop>
+        <type>[Whitebeard Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>R</colors>
+        <pt>6000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-003.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Edward.Newgate [OP02-004]</name>
+      <text>[On Play] Up to 1 of your Leader gains +2000 power until the start of your next turn. Then, you cannot add Life cards to your hand using your own effects during this turn. [DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.</text>
+      <prop>
+        <type>[The Four Emperors] [Whitebeard Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>9</cmc>
+        <colors>R</colors>
+        <pt>10000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-004_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Curly.Dadan [OP02-005]</name>
+      <text>[On Play] Look at up to 5 cards from the top of your deck; reveal up to 1 red Character with a cost of 1 and add it to your hand. Then, place the rest at the bottom of your deck in any order.</text>
+      <prop>
+        <type>[Mountain Bandits]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>R</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-005.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Kingdew [OP02-006]</name>
+      <text></text>
+      <prop>
+        <type>[Whitebeard Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>5</cmc>
+        <colors>R</colors>
+        <pt>7000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-006.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Thatch [OP02-007]</name>
+      <text></text>
+      <prop>
+        <type>[Whitebeard Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>6</cmc>
+        <colors>R</colors>
+        <pt>8000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-007.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Jozu [OP02-008]</name>
+      <text>[DON!! x1] If you have 2 or less Life cards and your Leader's type includes "Whitebeard Pirates", this Character gains [Rush]. (This card can attack on the turn in which it is played.)</text>
+      <prop>
+        <type>[Whitebeard Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>R</colors>
+        <pt>4000/2000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-008.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Squard [OP02-009]</name>
+      <text>[On Play] If your Leader's type includes "Whitebeard Pirates", give up to 1 of your opponent's Characters −4000 power during this turn and add 1 card from the top of your Life cards to your hand.</text>
+      <prop>
+        <type>[Whitebeard Pirates Allies]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>R</colors>
+        <pt>5000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-009_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Dogura [OP02-010]</name>
+      <text>[Activate: Main] You may rest this Character: Play up to 1 red Character other than [Dogura] with a cost of 1 from your hand.</text>
+      <prop>
+        <type>[Mountain Bandits]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>R</colors>
+        <pt>2000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-010.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Vista [OP02-011]</name>
+      <text>[On Play] K.O. up to 1 of your opponent's Characters with 3000 power or less.</text>
+      <prop>
+        <type>[Whitebeard Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>R</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-011.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Blenheim [OP02-012]</name>
+      <text>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</text>
+      <prop>
+        <type>[Whitebeard Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>R</colors>
+        <pt>3000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-012.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Portgas.D.Ace [OP02-013]</name>
+      <text>[On Play] Give up to 2 of your opponent's Characters −3000 power during this turn. Then, if your Leader's type includes "Whitebeard Pirates", this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)</text>
+      <prop>
+        <type>[Whitebeard Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>7</cmc>
+        <colors>R</colors>
+        <pt>7000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-013_p2.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Whitey Bay [OP02-014]</name>
+      <text>[DON!! x1] This Character can also attack your opponent's active Characters.</text>
+      <prop>
+        <type>[Whitebeard Pirates Allies]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>R</colors>
+        <pt>2000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-014.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Makino [OP02-015]</name>
+      <text>[Activate: Main] You may rest this Character: Up to 1 of your red Characters with a cost of 1 gains +3000 power during this turn.</text>
+      <prop>
+        <type>[Windmill Village]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>R</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-015.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Magura [OP02-016]</name>
+      <text>[On Play] Up to 1 of your red Characters with a cost of 1 gains +3000 power during this turn.</text>
+      <prop>
+        <type>[Mountain Bandits]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>R</colors>
+        <pt>2000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-016.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Masked Deuce [OP02-017]</name>
+      <text>[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 2000 power or less.</text>
+      <prop>
+        <type>[Spade Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>R</colors>
+        <pt>3000/2000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-017_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Marco [OP02-018]</name>
+      <text>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] You may trash 1 card with a type including "Whitebeard Pirates" from your hand: If you have 2 or less Life cards, play this Character card from your trash rested.</text>
+      <prop>
+        <type>[Whitebeard Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>R</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-018_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Rakuyo [OP02-019]</name>
+      <text>[DON!! x1] [Your Turn] All of your Characters with a type including "Whitebeard Pirates" gain +1000 power.</text>
+      <prop>
+        <type>[Whitebeard Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>R</colors>
+        <pt>4000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-019.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] LittleOars Jr. [OP02-020]</name>
+      <text></text>
+      <prop>
+        <type>[Giant] [Whitebeard Pirates Allies]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>7</cmc>
+        <colors>R</colors>
+        <pt>9000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-020.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Seaquake [OP02-021]</name>
+      <text>[Main] If your Leader's type includes "Whitebeard Pirates", K.O. up to 1 of your opponent's Characters with 3000 power or less.
+[Trigger] Give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.</text>
+      <prop>
+        <type>[The Four Emperors] [Whitebeard Pirates]</type>
+        <maintype>EVENT</maintype>
+        <cmc>1</cmc>
+        <colors>R</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-021.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Whitebeard Pirates [OP02-022]</name>
+      <text>[Main] Look at 5 cards from the top of your deck; reveal up to 1 Character card with a type including "Whitebeard Pirates" and add it to your hand. Then, place the rest at the bottom of your deck in any order.
+[Trigger] Activate this card's [Main] effect.</text>
+      <prop>
+        <type>[Whitebeard Pirates]</type>
+        <maintype>EVENT</maintype>
+        <cmc>1</cmc>
+        <colors>R</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-022.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] You May Be a Fool...but I Still Love You [OP02-023]</name>
+      <text>[Main] If you have 3 or less Life cards, you cannot add Life cards to your hand using your own effects during this turn.
+[Trigger] Up to 1 of your Leader gains +1000 power during this turn.</text>
+      <prop>
+        <type>[The Four Emperors] [Whitebeard Pirates]</type>
+        <maintype>EVENT</maintype>
+        <cmc>1</cmc>
+        <colors>R</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-023.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Moby Dick [OP02-024]</name>
+      <text>[Your Turn] If you have 1 or less Life cards, your [Edward.Newgate] and all your Characters with a type including "Whitebeard Pirates" gain +2000 power.
+[Trigger] Play this card.</text>
+      <prop>
+        <type>[Whitebeard Pirates]</type>
+        <maintype>STAGE</maintype>
+        <cmc>2</cmc>
+        <colors>R</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-024.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Kin'emon [OP02-025]</name>
+      <text>[Activate: Main] [Once Per Turn] If you have 1 or less Characters, the next time you play a {Land of Wano} type Character card with a cost of 3 or more from your hand during this turn, the cost will be reduced by 1.</text>
+      <prop>
+        <type>[Land of Wano] [The Akazaya Nine]</type>
+        <maintype>LEADER</maintype>
+        <colors>G</colors>
+        <pt>5000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-025_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Sanji [OP02-026]</name>
+      <text>[Once Per Turn] When you play a Character with no base effect from your hand, if you have 3 or less Characters, set up to 2 of your DON!! cards as active.</text>
+      <prop>
+        <type>[Straw Hat Crew]</type>
+        <maintype>LEADER</maintype>
+        <colors>GU</colors>
+        <pt>5000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-026_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Inuarashi [OP02-027]</name>
+      <text>If all of your DON!! cards are rested, this Character cannot be removed from the field by your opponent's effects.</text>
+      <prop>
+        <type>[Minks] [Land of Wano] [The Akazaya Nine]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>G</colors>
+        <pt>4000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-027.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Usopp [OP02-028]</name>
+      <text></text>
+      <prop>
+        <type>[FILM] [Straw Hat Crew]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>G</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-028.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Carrot [OP02-029]</name>
+      <text>[End of Your Turn] Set up to 1 of your DON!! cards as active.</text>
+      <prop>
+        <type>[Minks]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>5</cmc>
+        <colors>G</colors>
+        <pt>5000/2000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-029.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Kouzuki Oden [OP02-030]</name>
+      <text>[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active. [On K.O.] Play up to 1 green {Land of Wano} type Character card with a cost of 3 from your deck. Then, shuffle your deck.</text>
+      <prop>
+        <type>[Land of Wano] [Kouzuki Clan]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>8</cmc>
+        <colors>G</colors>
+        <pt>8000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-030_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Kouzuki Toki [OP02-031]</name>
+      <text>If you have a [Kouzuki Oden] Character, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</text>
+      <prop>
+        <type>[Land of Wano] [Kouzuki Clan]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>G</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-031_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Shishilian [OP02-032]</name>
+      <text>[On Play] ② (You may rest the specified number of DON!! cards in your cost area.): Set up to 1 of your {Minks} type Characters with a cost of 5 or less as active.</text>
+      <prop>
+        <type>[Minks]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-032.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Jinbe [OP02-033]</name>
+      <text></text>
+      <prop>
+        <type>[FILM] [Fish-Man] [Straw Hat Crew]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <pt>4000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-033.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Tony Tony.Chopper [OP02-034]</name>
+      <text>[DON!! x1] [When Attacking] Rest up to 1 of your opponent's Characters with a cost of 2 or less.</text>
+      <prop>
+        <type>[FILM] [Animal] [Straw Hat Crew]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <pt>2000/2000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-034.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Trafalgar Law [OP02-035]</name>
+      <text>[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may return this Character to the owner's hand: Play up to 1 Character with a cost of 3 from your hand.</text>
+      <prop>
+        <type>[FILM] [Supernovas] [Heart Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-035.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Nami [OP02-036]</name>
+      <text>[On Play]/[When Attacking] ➀ (You may rest the specified number of DON!! cards in your cost area.): Look at 3 cards from the top of your deck; reveal up to 1 {FILM} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.</text>
+      <prop>
+        <type>[FILM] [Straw Hat Crew]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>G</colors>
+        <pt>5000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-036_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Nico Robin [OP02-037]</name>
+      <text>[On Play] Play up to 1 {FILM} or {Straw Hat Crew} type Character card with a cost of 2 or less from your hand.</text>
+      <prop>
+        <type>[FILM] [Straw Hat Crew]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>G</colors>
+        <pt>4000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-037.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Nekomamushi [OP02-038]</name>
+      <text>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</text>
+      <prop>
+        <type>[Minks] [Land of Wano] [The Akazaya Nine]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>G</colors>
+        <pt>4000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-038.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Franky [OP02-039]</name>
+      <text></text>
+      <prop>
+        <type>[FILM] [Straw Hat Crew]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>5</cmc>
+        <colors>G</colors>
+        <pt>7000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-039.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Brook [OP02-040]</name>
+      <text>[On Play] Play up to 1 {FILM} or {Straw Hat Crew} type Character card with a cost of 3 or less from your hand.</text>
+      <prop>
+        <type>[FILM] [Straw Hat Crew]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>G</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-040.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Monkey.D.Luffy [OP02-041]</name>
+      <text>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Play up to 1 {FILM} or {Straw Hat Crew} type Character card with a cost of 4 or less from your hand.</text>
+      <prop>
+        <type>[FILM] [Supernovas] [Straw Hat Crew]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>7</cmc>
+        <colors>G</colors>
+        <pt>7000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-041_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Yamato [OP02-042]</name>
+      <text>Also treat this card's name as [Kouzuki Oden] according to the rules. [On Play] Rest up to 1 of your opponent's Characters with a cost of 6 or less.</text>
+      <prop>
+        <type>[Land of Wano]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>G</colors>
+        <pt>6000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-042.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Roronoa Zoro [OP02-043]</name>
+      <text></text>
+      <prop>
+        <type>[FILM] [Supernovas] [Straw Hat Crew]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>G</colors>
+        <pt>6000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-043.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Wanda [OP02-044]</name>
+      <text>[On Play] Play up to 1 {Minks} type Character card other than [Wanda] with a cost of 3 or less from your hand.</text>
+      <prop>
+        <type>[Minks]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-044.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Three Sword Style Oni Giri [OP02-045]</name>
+      <text>[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, play up to 1 Character card with a cost of 3 or less and no base effect from your hand.
+[Trigger] Rest up to 1 of your opponent's Leader or Character cards with a cost of 5 or less.</text>
+      <prop>
+        <type>[FILM] [Supernovas] [Straw Hat Crew]</type>
+        <maintype>EVENT</maintype>
+        <cmc>3</cmc>
+        <colors>G</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-045.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Diable Jambe Venaison Shoot [OP02-046]</name>
+      <text>[Main] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.
+[Trigger] Play up to 1 Character card with a cost of 4 or less and no base effect from your hand.</text>
+      <prop>
+        <type>[FILM] [Straw Hat Crew]</type>
+        <maintype>EVENT</maintype>
+        <cmc>2</cmc>
+        <colors>G</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-046.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Paradise Totsuka [OP02-047]</name>
+      <text>[Main] Rest up to 1 of your opponent's Characters with a cost of 4 or less.
+[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.</text>
+      <prop>
+        <type>[Land of Wano] [Kouzuki Clan]</type>
+        <maintype>EVENT</maintype>
+        <cmc>1</cmc>
+        <colors>G</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-047.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Land of Wano [OP02-048]</name>
+      <text>[Activate: Main] You may trash 1 {Land of Wano} type card from your hand and rest this Stage: Set up to 1 of your DON!! cards as active.</text>
+      <prop>
+        <type>[Land of Wano]</type>
+        <maintype>STAGE</maintype>
+        <cmc>1</cmc>
+        <colors>G</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-048.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Emporio.Ivankov [OP02-049]</name>
+      <text>[End of Your Turn] If you have 0 cards in your hand, draw 2 cards.</text>
+      <prop>
+        <type>[Impel Down] [Revolutionary Army]</type>
+        <maintype>LEADER</maintype>
+        <colors>U</colors>
+        <pt>5000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-049_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Inazuma [OP02-050]</name>
+      <text>If you have 1 or less cards in your hand, this Character gains +2000 power. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</text>
+      <prop>
+        <type>[Impel Down] [Revolutionary Army]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>U</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-050.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Emporio.Ivankov [OP02-051]</name>
+      <text>[On Play] Draw card(s) so that you have 3 cards in your hand and then play up to 1 blue {Impel Down} type Character card with a cost of 6 or less from your hand.</text>
+      <prop>
+        <type>[Impel Down] [Revolutionary Army]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>7</cmc>
+        <colors>U</colors>
+        <pt>7000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-051_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Cabaji [OP02-052]</name>
+      <text>[On Play] If you have [Mohji], draw 2 cards and trash 1 card from your hand.</text>
+      <prop>
+        <type>[Buggy Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>U</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-052.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Crocodile [OP02-053]</name>
+      <text></text>
+      <prop>
+        <type>[Impel Down] [Former Baroque Works]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>5</cmc>
+        <colors>U</colors>
+        <pt>7000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-053.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Gecko Moria [OP02-054]</name>
+      <text></text>
+      <prop>
+        <type>[The Seven Warlords of the Sea] [Thriller Bark Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>U</colors>
+        <pt>6000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-054.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Dracule Mihawk [OP02-055]</name>
+      <text></text>
+      <prop>
+        <type>[The Seven Warlords of the Sea]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>6</cmc>
+        <colors>U</colors>
+        <pt>8000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-055.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Donquixote Doflamingo [OP02-056]</name>
+      <text>[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order. [DON!! x1] [When Attacking] You may trash 1 card from your hand: Place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck.</text>
+      <prop>
+        <type>[The Seven Warlords of the Sea] [Donquixote Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>U</colors>
+        <pt>2000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-056.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Bartholomew Kuma [OP02-057]</name>
+      <text>[On Play] Look at 2 cards from the top of your deck; reveal up to 1 {The Seven Warlords of the Sea} type card and add it to your hand. Then, place the rest at the top or bottom of the deck in any order.</text>
+      <prop>
+        <type>[The Seven Warlords of the Sea] [Revolutionary Army]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>U</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-057.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Buggy [OP02-058]</name>
+      <text>[On Play] Look at 5 cards from the top of your deck; reveal up to 1 blue {Impel Down} type card other than [Buggy] and add it to your hand. Then, place the rest at the bottom of your deck in any order.</text>
+      <prop>
+        <type>[Impel Down] [Buggy Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>U</colors>
+        <pt>2000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-058_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Boa Hancock [OP02-059]</name>
+      <text>[When Attacking] Draw 1 card and trash 1 card from your hand. Then, trash up to 3 cards from your hand.</text>
+      <prop>
+        <type>[Impel Down] [The Seven Warlords of the Sea] [Kuja Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>U</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-059_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Mohji [OP02-060]</name>
+      <text></text>
+      <prop>
+        <type>[Buggy Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>U</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-060.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Morley [OP02-061]</name>
+      <text>[When Attacking] If you have 1 or less cards in your hand, your opponent cannot activate the [Blocker] of any Character with a cost of 5 or less during this battle.</text>
+      <prop>
+        <type>[Giant] [Revolutionary Army]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>U</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-061.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Monkey.D.Luffy [OP02-062]</name>
+      <text>[On Play]/[When Attacking] You may trash 2 cards from your hand: Return up to 1 Character with a cost of 4 or less to the owner's hand. Then, this Character gains [Double Attack] during this turn. (This card deals 2 damage.)</text>
+      <prop>
+        <type>[Impel Down] [Straw Hat Crew]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>6</cmc>
+        <colors>U</colors>
+        <pt>7000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-062_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Mr.1(Daz.Bonez) [OP02-063]</name>
+      <text>[On Play] Add up to 1 blue Event card with a cost of 1 from your trash to your hand.</text>
+      <prop>
+        <type>[Impel Down] [Former Baroque Works]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>U</colors>
+        <pt>1000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-063.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Mr.2.Bon.Kurei(Bentham) [OP02-064]</name>
+      <text>[DON!! x1] [When Attacking] You may trash 1 card from your hand: Place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck. Then, at the end of this battle, place this Character at the bottom of the owner's deck.</text>
+      <prop>
+        <type>[Impel Down] [Former Baroque Works]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>5</cmc>
+        <colors>U</colors>
+        <pt>5000/2000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-064.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Mr.3(Galdino) [OP02-065]</name>
+      <text>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [End of Your Turn] You may trash 1 card from your hand: Set this Character as active.</text>
+      <prop>
+        <type>[Impel Down] [Former Baroque Works]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>U</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-065.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Impel Down All Stars [OP02-066]</name>
+      <text>[Main] You may trash 2 cards from your hand: If your Leader has the {Impel Down} type, draw up to 2 cards.
+[Trigger] Draw 2 cards.</text>
+      <prop>
+        <type>[Impel Down]</type>
+        <maintype>EVENT</maintype>
+        <cmc>1</cmc>
+        <colors>U</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-066.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Arabesque Brick Fist [OP02-067]</name>
+      <text>[Main] Return up to 1 Character with a cost of 4 or less to the owner's hand.
+[Trigger] Activate this card's [Main] effect.</text>
+      <prop>
+        <type>[Fish-Man] [Impel Down]</type>
+        <maintype>EVENT</maintype>
+        <cmc>2</cmc>
+        <colors>U</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-067.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Gum-Gum Rain [OP02-068]</name>
+      <text>[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.
+[Trigger] Return up to 1 Character with a cost of 2 or less to the owner's hand.</text>
+      <prop>
+        <type>[Impel Down] [Straw Hat Crew]</type>
+        <maintype>EVENT</maintype>
+        <colors>U</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-068.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] DEATH WINK [OP02-069]</name>
+      <text>[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, draw cards so that you have 2 cards in your hand.
+[Trigger] Return up to 1 Character with a cost of 7 or less to the owner's hand.</text>
+      <prop>
+        <type>[Impel Down] [Revolutionary Army]</type>
+        <maintype>EVENT</maintype>
+        <cmc>3</cmc>
+        <colors>U</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-069.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] New Kama Land [OP02-070]</name>
+      <text>[Activate: Main] You may rest this Stage: If your Leader is [Emporio.Ivankov], draw 1 card and trash 1 card from your hand. Then, trash up to 3 cards from your hand.</text>
+      <prop>
+        <type>[Impel Down]</type>
+        <maintype>STAGE</maintype>
+        <cmc>1</cmc>
+        <colors>U</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-070.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Magellan [OP02-071]</name>
+      <text>[Your Turn] [Once Per Turn] When a DON!! card on the field is returned to your DON!! deck, this Leader gains +1000 power during this turn.</text>
+      <prop>
+        <type>[Impel Down]</type>
+        <maintype>LEADER</maintype>
+        <colors>P</colors>
+        <pt>5000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-071_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Zephyr [OP02-072]</name>
+      <text>[When Attacking] DON!! −4 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 3 or less. Then, this Leader gains +1000 power during this turn.</text>
+      <prop>
+        <type>[FILM] [Neo Navy]</type>
+        <maintype>LEADER</maintype>
+        <colors>PB</colors>
+        <pt>5000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-072_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Little Sadi [OP02-073]</name>
+      <text>[On Play] Play up to 1 {Jailer Beast} type Character card from your hand.</text>
+      <prop>
+        <type>[Impel Down]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>P</colors>
+        <pt>3000/2000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-073_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Saldeath [OP02-074]</name>
+      <text>Your [Blugori] gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</text>
+      <prop>
+        <type>[Impel Down]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>P</colors>
+        <pt>2000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-074.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Shiki [OP02-075]</name>
+      <text>
+[Trigger] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.</text>
+      <prop>
+        <type>[FILM] [Golden Lion Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>P</colors>
+        <pt>3000/2000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-075.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Shiryu [OP02-076]</name>
+      <text>[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 1 or less.</text>
+      <prop>
+        <type>[Impel Down]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>P</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-076.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Solitaire [OP02-077]</name>
+      <text></text>
+      <prop>
+        <type>[Animal Kingdom Pirates] [SMILE]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>P</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-077.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Daifugo [OP02-078]</name>
+      <text>[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 {SMILE} type Character card other than [Daifugo] with a cost of 3 or less from your hand.</text>
+      <prop>
+        <type>[Animal Kingdom Pirates] [SMILE]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>P</colors>
+        <pt>5000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-078.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Douglas Bullet [OP02-079]</name>
+      <text>[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 4 or less.</text>
+      <prop>
+        <type>[FILM] [The Pirates Fest]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>5</cmc>
+        <colors>P</colors>
+        <pt>6000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-079.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Dobon [OP02-080]</name>
+      <text></text>
+      <prop>
+        <type>[Animal Kingdom Pirates] [SMILE]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>P</colors>
+        <pt>4000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-080.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Domino [OP02-081]</name>
+      <text>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</text>
+      <prop>
+        <type>[Impel Down]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>P</colors>
+        <pt>2000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-081.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Byrnndi World [OP02-082]</name>
+      <text>[Activate: Main] DON!! −8 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +792000 power during this turn.</text>
+      <prop>
+        <type>[World Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>8</cmc>
+        <colors>P</colors>
+        <pt>8000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-082.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Hannyabal [OP02-083]</name>
+      <text>[On Play] Look at 5 cards from the top of your deck; reveal up to 1 purple {Impel Down} type card other than [Hannyabal] and add it to your hand. Then, place the rest at the bottom of your deck in any order.</text>
+      <prop>
+        <type>[Impel Down]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>P</colors>
+        <pt>2000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-083.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Blugori [OP02-084]</name>
+      <text></text>
+      <prop>
+        <type>[Animal] [Impel Down]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>P</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-084.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Magellan [OP02-085]</name>
+      <text>[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent returns 1 DON!! card from their field to their DON!! deck. [Opponent's Turn] When this Character is K.O.'d, your opponent returns 2 DON!! cards from their field to their DON!! deck.</text>
+      <prop>
+        <type>[Impel Down]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>5</cmc>
+        <colors>P</colors>
+        <pt>6000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-085_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Minokoala [OP02-086]</name>
+      <text>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.</text>
+      <prop>
+        <type>[Impel Down] [Jailer Beast]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>P</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-086_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Minotaur [OP02-087]</name>
+      <text>[Double Attack] (This card deals 2 damage.) [On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.</text>
+      <prop>
+        <type>[Impel Down] [Jailer Beast]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>P</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-087.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Sphinx [OP02-088]</name>
+      <text></text>
+      <prop>
+        <type>[Animal] [Impel Down]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>P</colors>
+        <pt>6000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-088.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Judgment of Hell [OP02-089]</name>
+      <text>[Counter] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to a total of 2 of your opponent's Leader or Character cards −3000 power during this turn.
+[Trigger] If your opponent has 6 or more DON!! cards on their field, your opponent returns 1 DON!! card from their field to their DON!! deck.</text>
+      <prop>
+        <type>[Impel Down]</type>
+        <maintype>EVENT</maintype>
+        <cmc>2</cmc>
+        <colors>P</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-089.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Hydra [OP02-090]</name>
+      <text>[Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to 1 of your opponent's Characters −3000 power during this turn.
+[Trigger] If your opponent has 6 or more DON!! cards on their field, your opponent returns 1 DON!! card from their field to their DON!! deck.</text>
+      <prop>
+        <type>[Impel Down]</type>
+        <maintype>EVENT</maintype>
+        <cmc>1</cmc>
+        <colors>P</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-090.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Venom Road [OP02-091]</name>
+      <text>[Main] Add up to 1 DON!! card from your DON!! deck and set it as active.
+[Trigger] If your opponent has 6 or more DON!! cards on their field, your opponent returns 1 DON!! card from their field to their DON!! deck.</text>
+      <prop>
+        <type>[Impel Down]</type>
+        <maintype>EVENT</maintype>
+        <cmc>3</cmc>
+        <colors>P</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-091.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Impel Down [OP02-092]</name>
+      <text>[Activate: Main] You may trash 1 card from your hand and rest this Stage: Look at 3 cards from the top of your deck; reveal up to 1 {Impel Down} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.</text>
+      <prop>
+        <type>[Impel Down]</type>
+        <maintype>STAGE</maintype>
+        <cmc>1</cmc>
+        <colors>P</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-092.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Smoker [OP02-093]</name>
+      <text>[DON!! x1] [Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1 cost during this turn. Then, if there is a Character with a cost of 0, this Leader gains +1000 power during this turn.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>LEADER</maintype>
+        <colors>B</colors>
+        <pt>5000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-093_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Isuka [OP02-094]</name>
+      <text>[DON!! x1] [Once Per Turn] When this Character battles and K.O.'s your opponent's Character, set this Character as active.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>B</colors>
+        <pt>4000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-094.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Onigumo [OP02-095]</name>
+      <text>If there is a Character with a cost of 0, this Character gains [Banish]. (When this card deals damage, the target card is trashed without activating its Trigger.)</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>5</cmc>
+        <colors>B</colors>
+        <pt>6000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-095.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Kuzan [OP02-096]</name>
+      <text>[On Play] Draw 1 card. [When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>B</colors>
+        <pt>5000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-096_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Komille [OP02-097]</name>
+      <text></text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>B</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-097.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Koby [OP02-098]</name>
+      <text>[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 3 or less.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>B</colors>
+        <pt>4000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-098.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Sakazuki [OP02-099]</name>
+      <text>[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>6</cmc>
+        <colors>B</colors>
+        <pt>7000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-099_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Jango [OP02-100]</name>
+      <text>If you have [Fullbody], this Character cannot be K.O.'d in battle.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>B</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-100.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Strawberry [OP02-101]</name>
+      <text>[When Attacking] If there is a Character with a cost of 0, your opponent cannot activate the [Blocker] of any Character with a cost of 5 or less during this battle.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>B</colors>
+        <pt>5000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-101.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Smoker [OP02-102]</name>
+      <text>This Character cannot be K.O.'d by effects. [When Attacking] If there is a Character with a cost of 0, this Character gains +2000 power during this battle.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>B</colors>
+        <pt>4000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-102.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Sengoku [OP02-103]</name>
+      <text>[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −2 cost during this turn.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>B</colors>
+        <pt>3000/2000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-103.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Sentomaru [OP02-104]</name>
+      <text>
+[Trigger] Play this card.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>B</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-104.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Tashigi [OP02-105]</name>
+      <text>[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −3 cost during this turn.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>B</colors>
+        <pt>5000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-105_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Tsuru [OP02-106]</name>
+      <text>[On Play] Give up to 1 of your opponent's Characters −2 cost during this turn.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>B</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-106.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Doberman [OP02-107]</name>
+      <text></text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>B</colors>
+        <pt>4000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-107.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Donquixote Rosinante [OP02-108]</name>
+      <text>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</text>
+      <prop>
+        <type>[Navy] [Donquixote Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>B</colors>
+        <pt>2000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-108_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Jaguar.D.Saul [OP02-109]</name>
+      <text></text>
+      <prop>
+        <type>[Giant] [Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>B</colors>
+        <pt>6000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-109.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Hina [OP02-110]</name>
+      <text>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Block] Select up to 1 of your opponent's Characters with a cost of 6 or less. The selected Character cannot attack during this turn.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>5</cmc>
+        <colors>B</colors>
+        <pt>6000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-110.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Fullbody [OP02-111]</name>
+      <text>[When Attacking] If you have [Jango], this card gains +3000 power during this battle.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>B</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-111.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Bell-mère [OP02-112]</name>
+      <text>[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −1 cost during this turn. Then, up to 1 of your Leader or Character cards gains +1000 power during this turn.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>B</colors>
+        <pt>1000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-112.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Helmeppo [OP02-113]</name>
+      <text>[When Attacking] Give up to 1 of your opponent's Characters −2 cost during this turn. Then, if there is a Character with a cost of 0, this Character gains +2000 power during this battle.
+[Trigger] Play this card.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>B</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-113.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Borsalino [OP02-114]</name>
+      <text>[Opponent's Turn] This Character gains +1000 power and cannot be K.O.'d by effects. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>B</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-114_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Monkey.D.Garp [OP02-115]</name>
+      <text>[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with a cost of 0.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>B</colors>
+        <pt>3000/2000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-115_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Yamakaji [OP02-116]</name>
+      <text></text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>B</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-116.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Ice Age [OP02-117]</name>
+      <text>[Main] Give up to 1 of your opponent's Characters −5 cost during this turn.
+[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>EVENT</maintype>
+        <cmc>1</cmc>
+        <colors>B</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-117.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Yasakani Sacred Jewel [OP02-118]</name>
+      <text>[Counter] You may trash 1 card from your hand: Select up to 1 of your Characters. The selected Character cannot be K.O.'d during this battle.
+[Trigger] K.O. up to 1 of your opponent's Stages with a cost of 3 or less.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>EVENT</maintype>
+        <cmc>1</cmc>
+        <colors>B</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-118.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Meteor Volcano [OP02-119]</name>
+      <text>[Main] K.O. up to 1 of your opponent's Characters with a cost of 1 or less.
+[Trigger] Draw 2 cards and trash 1 card from your hand.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>EVENT</maintype>
+        <cmc>2</cmc>
+        <colors>B</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-119.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Uta [OP02-120]</name>
+      <text>[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your Leader and all of your Characters gain +1000 power until the start of your next turn.</text>
+      <prop>
+        <type>[FILM]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>8</cmc>
+        <colors>P</colors>
+        <pt>8000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-120_p1.png">OP02</set>
+    </card>
+    <card>
+      <name>[OP] Kuzan [OP02-121]</name>
+      <text>[Your Turn] Give all of your opponent's Characters −5 cost. [On Play] K.O. up to 1 of your opponent's Characters with a cost of 0.</text>
+      <prop>
+        <type>[Former Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>10</cmc>
+        <colors>B</colors>
+        <pt>10000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-121_p1.png">OP02</set>
+    </card>
+  </cards>
+</cockatrice_carddatabase>
