@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>PROMO 2022</name>
+      <longname>[One Piece] [PROMO 2022] Promotion Pack 2022</longname>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>[OP] Trafalgar Law [OP02-035]</name>
+      <text>[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may return this Character to the owner's hand: Play up to 1 Character with a cost of 3 from your hand.</text>
+      <prop>
+        <type>[FILM] [Supernovas] [Heart Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-035_p1.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Koby [OP02-098]</name>
+      <text>[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 3 or less.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>B</colors>
+        <pt>4000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/OP02-098_p1.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Monkey.D.Luffy [P-001]</name>
+      <text>[DON!! x2] This Character gains [Rush]. (This card can attack on the turn in which it is played.)</text>
+      <prop>
+        <type>[Supernovas] [Straw Hat Crew]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>6</cmc>
+        <colors>R</colors>
+        <pt>7000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-001_p2.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] I Smell Adventure!!! [P-002]</name>
+      <text>[Main] Return all cards in your hand to your deck and shuffle your deck. Then, draw cards equal to the number you returned to your deck.
+[Trigger] Activate this card's [Main] effect.</text>
+      <prop>
+        <type>[Straw Hat Crew]</type>
+        <maintype>EVENT</maintype>
+        <cmc>1</cmc>
+        <colors>R</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-002.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Eustass"Captain"Kid [P-003]</name>
+      <text>[DON!! x2] This Character gains [Double Attack]. (This card deals 2 damage.)</text>
+      <prop>
+        <type>[Supernovas] [Kid Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>G</colors>
+        <pt>4000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-003.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Crocodile [P-004]</name>
+      <text>[DON!! x1] This Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</text>
+      <prop>
+        <type>[The Seven Warlords of the Sea] [Baroque Works]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>U</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-004.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Kaido [P-005]</name>
+      <text>[Activate: Main] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains [Banish] during this turn. (When this card deals damage, the target card is trashed without activating its Trigger.)</text>
+      <prop>
+        <type>[The Four Emperors] [Animal Kingdom Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>7</cmc>
+        <colors>P</colors>
+        <pt>8000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-005.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Monkey.D.Luffy [P-006]</name>
+      <text>[DON!! x2] [Your Turn] This Character gains +2000 power.</text>
+      <prop>
+        <type>[Supernovas] [Straw Hat Crew]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>R</colors>
+        <pt>3000/2000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-006.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Monkey.D.Luffy [P-007]</name>
+      <text>[DON!! x1] This Character cannot be K.O.'d in battle by ＜Strike＞ attribute Leaders or Characters.</text>
+      <prop>
+        <type>[Supernovas] [Straw Hat Crew]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>R</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-007.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Yamato [P-008]</name>
+      <text>[Activate: Main] You may rest this Character: Rest 1 of your opponent's Characters with a cost of 2 or less.</text>
+      <prop>
+        <type>[Land of Wano]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>G</colors>
+        <pt>5000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-008.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Trafalgar Law [P-009]</name>
+      <text>[On Play] If your opponent has 6 or more cards in their hand, your opponent adds 1 card from their Life area to their hand.</text>
+      <prop>
+        <type>[Supernovas] [Heart Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>6</cmc>
+        <colors>U</colors>
+        <pt>7000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-009.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Kaido [P-010]</name>
+      <text>[End of Your Turn] Add 1 DON!! card from your DON!! deck and set it as active.</text>
+      <prop>
+        <type>[The Four Emperors] [Animal Kingdom Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>8</cmc>
+        <colors>P</colors>
+        <pt>9000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-010.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Uta [P-011]</name>
+      <text>[Activate: Main] [Once Per Turn] ① (You may rest the specified number of DON!! cards in your cost area.): Up to 1 of your Characters with no base effect gains +2000 power during this turn.</text>
+      <prop>
+        <type>[FILM]</type>
+        <maintype>LEADER</maintype>
+        <colors>R</colors>
+        <pt>5000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-011.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Jellyfish Pirates [P-012]</name>
+      <text></text>
+      <prop>
+        <type>[FILM] [Jellyfish Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>R</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-012.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Gordon [P-013]</name>
+      <text>[Activate: Main] You may place this Character at the bottom of the owner's deck: Give up to 1 of your opponent's Characters −3000 power during this turn.</text>
+      <prop>
+        <type>[FILM]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>R</colors>
+        <pt>2000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-013.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Koby [P-014]</name>
+      <text>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)
+[Trigger] Play this card.</text>
+      <prop>
+        <type>[FILM] [Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>R</colors>
+        <pt>3000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-014.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Sunny-Kun [P-015]</name>
+      <text></text>
+      <prop>
+        <type>[FILM] [Straw Hat Crew]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>R</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-015.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Shanks [P-016]</name>
+      <text></text>
+      <prop>
+        <type>[FILM] [The Four Emperors] [Red-Haired Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>8</cmc>
+        <colors>R</colors>
+        <pt>10000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-016.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Trafalgar Law [P-017]</name>
+      <text>[On Play] Give up to 1 of your opponent's Characters −2000 power during this turn.</text>
+      <prop>
+        <type>[FILM] [Supernovas] [Heart Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>R</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-017.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Bartolomeo [P-018]</name>
+      <text>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)</text>
+      <prop>
+        <type>[FILM] [Supernovas] [Barto Club]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>R</colors>
+        <pt>3000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-018.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Bepo [P-019]</name>
+      <text>[DON!! x1] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.</text>
+      <prop>
+        <type>[FILM] [Minks] [Heart Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>R</colors>
+        <pt>2000/2000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-019.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Helmeppo [P-020]</name>
+      <text>[On Play] Up to 1 of your Leader or Character cards gains +1000 power during this turn.</text>
+      <prop>
+        <type>[FILM] [Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>R</colors>
+        <pt>2000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-020.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Benn.Beckman [P-021]</name>
+      <text></text>
+      <prop>
+        <type>[FILM] [Red-Haired Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>7</cmc>
+        <colors>R</colors>
+        <pt>9000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-021.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Monkey.D.Luffy [P-022]</name>
+      <text></text>
+      <prop>
+        <type>[FILM] [Supernovas] [Straw Hat Crew]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>R</colors>
+        <pt>6000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-022.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Yasopp [P-023]</name>
+      <text></text>
+      <prop>
+        <type>[FILM] [Red-Haired Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>6</cmc>
+        <colors>R</colors>
+        <pt>8000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-023.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] I'm Gonna Be King of the Pirates!! [P-024]</name>
+      <text>[Main] Your Leader gains +1000 power for each of your Characters during this turn.
+[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.</text>
+      <prop>
+        <type>[Supernovas] [Straw Hat Crew]</type>
+        <maintype>EVENT</maintype>
+        <cmc>2</cmc>
+        <colors>G</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-024.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Morgan [P-026]</name>
+      <text>[When Attacking] Give up to 1 of your opponent's Characters −3 cost during this turn.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>B</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-026.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Portgas.D.Ace [P-028]</name>
+      <text>[Double Attack] (This card deals 2 damage.)</text>
+      <prop>
+        <type>[Whitebeard Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>5</cmc>
+        <colors>R</colors>
+        <pt>6000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-028.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Bartolomeo [P-029]</name>
+      <text>[End of Your Turn] You may rest this Character: Set up to 1 of your {FILM} type Characters other than [Bartolomeo] as active.</text>
+      <prop>
+        <type>[FILM] [Supernovas] [Barto Club]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>G</colors>
+        <pt>3000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-029.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Jinbe [P-030]</name>
+      <text>[On K.O.] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.</text>
+      <prop>
+        <type>[Fish-Man] [The Seven Warlords of the Sea] [The Sun Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>U</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-030.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Uta [P-031]</name>
+      <text>[On Play] Add up to 1 DON!! card from your DON!! deck and rest it.</text>
+      <prop>
+        <type>[FILM]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>5</cmc>
+        <colors>P</colors>
+        <pt>6000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-031.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Sengoku [P-032]</name>
+      <text>[DON!! x1] [Your Turn] Give all of your opponent's Characters −2 cost.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>5</cmc>
+        <colors>B</colors>
+        <pt>6000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-032.png">PROMO 2022</set>
+    </card>
+  </cards>
+</cockatrice_carddatabase>
