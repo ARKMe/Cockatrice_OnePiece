@@ -3,7 +3,6 @@
     <deckname>STARTER DECK - Straw Hat Crew</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="[OP] DON!! [CORE-001]"/>
         <card number="1" name="[OP] Monkey.D.Luffy [ST01-001]"/>
         <card number="4" name="[OP] Usopp [ST01-002]"/>
         <card number="4" name="[OP] Karoo [ST01-003]"/>
