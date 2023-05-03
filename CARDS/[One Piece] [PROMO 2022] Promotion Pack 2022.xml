@@ -391,5 +391,53 @@
       </prop>
       <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/P-032.png">PROMO 2022</set>
     </card>
+    <card>
+      <name>[OP] Sanji [ST01-004]</name>
+      <text>[DON!! x2] This Character gains [Rush]. (This card can attack on the turn in which it is played.)</text>
+      <prop>
+        <type>[Straw Hat Crew]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>R</colors>
+        <pt>4000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST01-004_p1.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Marshall.D.Teach [ST03-014]</name>
+      <text>[On Play] Return up to 1 Character with a cost of 3 or less to the owner's hand.</text>
+      <prop>
+        <type>[The Seven Warlords of the Sea] [Blackbeard Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>U</colors>
+        <pt>4000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST03-014_p1.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Jack [ST04-008]</name>
+      <text>[On Play] You may trash 1 card from your hand: Add up to 1 DON!! card from your DON!! deck and set it as active.</text>
+      <prop>
+        <type>[Animal Kingdom Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>P</colors>
+        <pt>4000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST04-008_p1.png">PROMO 2022</set>
+    </card>
+    <card>
+      <name>[OP] Charlotte Pudding [ST07-008]</name>
+      <text>[On Play] Look at up to 1 card from the top of yours or your opponent's Life cards, and place it at the top or bottom of the Life cards.</text>
+      <prop>
+        <type>[Big Mom Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>Y</colors>
+        <pt>3000/2000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST07-008_p1.png">PROMO 2022</set>
+    </card>
   </cards>
 </cockatrice_carddatabase>
