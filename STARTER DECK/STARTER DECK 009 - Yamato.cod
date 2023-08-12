@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>STARTER DECK 009 - Yamato</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="10" name="[OP] DON!! [CORE-001]"/>
+        <card number="1" name="[OP] Yamato [ST09-001]"/>
+        <card number="4" name="[OP] Uzuki Tempura [ST09-002]"/>
+        <card number="4" name="[OP] Ulti [ST09-003]"/>
+        <card number="4" name="[OP] Kaido [ST09-004]"/>
+        <card number="2" name="[OP] Kouzuki Oden [ST09-005]"/>
+        <card number="4" name="[OP] Kouzuki Momonosuke [ST09-006]"/>
+        <card number="4" name="[OP] Shinobu [ST09-007]"/>
+        <card number="4" name="[OP] Shimotsuki Ushimaru [ST09-008]"/>
+        <card number="4" name="[OP] Fugetsu Omusubi [ST09-009]"/>
+        <card number="2" name="[OP] Portgas.D.Ace [ST09-010]"/>
+        <card number="4" name="[OP] Monkey.D.Luffy [ST09-011]"/>
+        <card number="4" name="[OP] Yamato [ST09-012]"/>
+        <card number="4" name="[OP] Yamato [ST09-013]"/>
+        <card number="2" name="[OP] Narikabura Arrow [ST09-014]"/>
+        <card number="4" name="[OP] Thunder Bagua [ST09-015]"/>
+    </zone>
+</cockatrice_deck>

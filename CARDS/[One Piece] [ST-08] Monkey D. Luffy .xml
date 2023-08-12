@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>ST-08</name>
+      <longname>[One Piece] [ST-08] Monkey D. Luffy</longname>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>[OP] Monkey.D.Luffy [ST08-001]</name>
+      <text>[Your Turn] When a Character is K.O.'d, give up to 1 rested DON!! card to this Leader.</text>
+      <prop>
+        <type>[Straw Hat Crew]</type>
+        <maintype>LEADER</maintype>
+        <colors>B</colors>
+        <pt>5000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST08-001.png">ST-08</set>
+    </card>
+    <card>
+      <name>[OP] Uta [ST08-002]</name>
+      <text>This Character cannot be K.O.'d in battle by Leaders. [Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.</text>
+      <prop>
+        <type>[FILM]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>B</colors>
+        <pt>3000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST08-002.png">ST-08</set>
+    </card>
+    <card>
+      <name>[OP] Gaimon [ST08-003]</name>
+      <text></text>
+      <prop>
+        <type>[East Blue]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>B</colors>
+        <pt>4000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST08-003.png">ST-08</set>
+    </card>
+    <card>
+      <name>[OP] Koby [ST08-004]</name>
+      <text>[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.</text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>B</colors>
+        <pt>1000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST08-004.png">ST-08</set>
+    </card>
+    <card>
+      <name>[OP] Shanks [ST08-005]</name>
+      <text>[On Play] You may trash 1 card from your hand: K.O. all Characters with a cost of 1 or less.</text>
+      <prop>
+        <type>[Red-Haired Pirates]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>9</cmc>
+        <colors>B</colors>
+        <pt>10000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST08-005.png">ST-08</set>
+    </card>
+    <card>
+      <name>[OP] Shirahoshi [ST08-006]</name>
+      <text>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.</text>
+      <prop>
+        <type>[Merfolk]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>B</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST08-006.png">ST-08</set>
+    </card>
+    <card>
+      <name>[OP] Nefeltari Vivi [ST08-007]</name>
+      <text>[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)
+[Trigger] Play this card.</text>
+      <prop>
+        <type>[Alabasta]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>B</colors>
+        <pt>1000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST08-007.png">ST-08</set>
+    </card>
+    <card>
+      <name>[OP] Higuma [ST08-008]</name>
+      <text>[On Play] Give up to 1 of your opponent's Characters −2 cost during this turn.</text>
+      <prop>
+        <type>[Mountain Bandits]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>1</cmc>
+        <colors>B</colors>
+        <pt>2000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST08-008.png">ST-08</set>
+    </card>
+    <card>
+      <name>[OP] Makino [ST08-009]</name>
+      <text>[On Play] If there is a Character with a cost of 0, draw 1 card.</text>
+      <prop>
+        <type>[Windmill Village]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>2</cmc>
+        <colors>B</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST08-009.png">ST-08</set>
+    </card>
+    <card>
+      <name>[OP] Monkey.D.Garp [ST08-010]</name>
+      <text></text>
+      <prop>
+        <type>[Navy]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>5</cmc>
+        <colors>B</colors>
+        <pt>7000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST08-010.png">ST-08</set>
+    </card>
+    <card>
+      <name>[OP] Monkey.D.Luffy [ST08-011]</name>
+      <text></text>
+      <prop>
+        <type>[Straw Hat Crew]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>3</cmc>
+        <colors>B</colors>
+        <pt>5000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST08-011.png">ST-08</set>
+    </card>
+    <card>
+      <name>[OP] Laboon [ST08-012]</name>
+      <text></text>
+      <prop>
+        <type>[Animal]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>4</cmc>
+        <colors>B</colors>
+        <pt>6000/1000</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST08-012.png">ST-08</set>
+    </card>
+    <card>
+      <name>[OP] Mr.2.Bon.Kurei(Bentham) [ST08-013]</name>
+      <text>[DON!! x1] At the end of a battle in which this Character battles your opponent's Character, you may K.O. the opponent’s Character you battled with. If you do, K.O. this Character.</text>
+      <prop>
+        <type>[Former Baroque Works]</type>
+        <maintype>CHARACTER</maintype>
+        <cmc>5</cmc>
+        <colors>B</colors>
+        <pt>6000/0</pt>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST08-013.png">ST-08</set>
+    </card>
+    <card>
+      <name>[OP] Gum-Gum Bell [ST08-014]</name>
+      <text>[Main] You may add 1 card from the top of your Life cards to your hand: Give up to 1 of your opponent's Characters −7 cost during this turn.
+[Trigger] Add up to 1 black Character card with a cost of 2 or less from your trash to your hand.</text>
+      <prop>
+        <type>[Straw Hat Crew]</type>
+        <maintype>EVENT</maintype>
+        <cmc>2</cmc>
+        <colors>B</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST08-014.png">ST-08</set>
+    </card>
+    <card>
+      <name>[OP] Gum-Gum Pistol [ST08-015]</name>
+      <text>[Main] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.
+[Trigger] Draw 1 card.</text>
+      <prop>
+        <type>[Straw Hat Crew]</type>
+        <maintype>EVENT</maintype>
+        <cmc>3</cmc>
+        <colors>B</colors>
+      </prop>
+      <set picurl="https://en.onepiece-cardgame.com/images/cardlist/card/ST08-015.png">ST-08</set>
+    </card>
+  </cards>
+</cockatrice_carddatabase>
